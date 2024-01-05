@@ -7,16 +7,16 @@ import axios from 'axios'
 
 
 global.owner = [
-  ['233533763772', 'Abraham Dwamena', true],
-  ['923184070915', '𝙎𝘼𝙇𝙈𝘼𝙉 𝘼𝙃𝙈𝘼𝘿 -(𝘼𝙝𝙢𝙢𝙞)', true], 
-  ['918360234087', 'WHITE', true], 
+  ['2347031262920', 'Muhammed Adediran ❤️', true],
+  ['2349015636933', 'Rare Breed 😎❤️', true], 
+  ['233558111386', 'Law(⁠*⁠_⁠*⁠) shambles', true], 
 ] //Number of owners
 
 //global.pairingNumber = "" //put your bot number here
 
-global.mods = ['233533763772','923184070915'] 
-global.prems = ['923184070915', '233533763772', '918360234087']
-global.allowed = ['923184070915', '233533763772', '918360234087']
+global.mods = ['2347031262920','2349015636933'] 
+global.prems = ['2347031262920', '2349015636933', '233558111386']
+global.allowed = ['2347031262920', '2349015636933', '233558111386']
 global.keysZens = ['c2459db922', '37CC845916', '6fb0eff124']
 global.keysxxx = keysZens[Math.floor(keysZens.length * Math.random())]
 global.keysxteammm = ['29d4b59a4aa687ca', '5LTV57azwaid7dXfz5fzJu', 'cb15ed422c71a2fb', '5bd33b276d41d6b4', 'HIRO', 'kurrxd09', 'ebb6251cc00f9c63']
@@ -51,10 +51,10 @@ global.APIKeys = { // APIKey Here
 }
 
 // Sticker WM
-global.botname = 'XLICON-V2'
+global.botname = 'ADMUAD❤️'
 global.premium = 'true'
-global.packname = 'XLICON TEAM' 
-global.author = '@XLICON-V2' 
+global.packname = 'ADMUAD TEAM✅' 
+global.author = '@Admuad' 
 global.menuvid = 'https://telegra.ph/file/325630f66abc968eda8e2.mp4'
 global.igfg = '▢✓ Follow My channel\nhttps://whatsapp.com/channel/0029VaE8GbCDzgTILE7OtC3e\n' 
 global.dygp = 'https://chat.whatsapp.com/BfH0KLkICn2BjmGFMRcGMW'
@@ -65,7 +65,7 @@ global.fglog = 'XLICON.jpg'
 global.thumb = fs.readFileSync('./XLICON.jpg')
 
 
-global.wait = '*🕣 _XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
+global.wait = '*🕣 ADMUAD-XLICON IS LODIND..._*\n*▰▰▰▱▱▱▱▱⭐*'
 global.rwait = '⌛'
 global.dmoji = '🤭'
 global.done = '✔️'
